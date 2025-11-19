@@ -6,7 +6,6 @@ I recently completed my **SDE Internship at Amazon Web Services (AWS)**, where I
 
 Currently, I'm pursuing my **Master’s in Computer Science at the University of Southern California (USC)**.  
 
----
 
 ## 🚀 Recent Projects & Work
 - **AWS SDK for Java v2**:  
